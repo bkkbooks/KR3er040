@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er040_000.yaml, hash: 'sha256:c67b6071f4da160efde3fff023899f90436d3d761a485dcc99f6974014c830fb'}
+  - {seq: 0, filename: KR3er040_000.yaml, hash: 'sha256:d2ccde11ca77400d395d72c1e955ba1e442b34bf2ccca8d6b89ea49240d29c11'}
   - {seq: 1, filename: KR3er040_001.yaml, hash: 'sha256:3695870f782119d440385d2eda7beb5bd8125a9806dd4d89386806788cf602d4'}
   - {seq: 2, filename: KR3er040_002.yaml, hash: 'sha256:b14bb46e6569bd6cce75b15d019062a866d2a3ff079c3b5da6d3a0e4c7964f31'}
   - {seq: 3, filename: KR3er040_003.yaml, hash: 'sha256:e1141bf246ecf137d1e50fd76aba48288d134b663af18454eb037eea60d36cc7'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3er040_005.yaml, hash: 'sha256:eac1e59380946afea4cfec62261e26a83a7cd289ab44d00d2d38664ad9d51a55'}
   - {seq: 6, filename: KR3er040_006.yaml, hash: 'sha256:7b099c8f627ca31345a171b857be6c61d33dca96768b526b8d11346e7212fe2c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er040_000.markers.yaml, hash: 'sha256:bce9d421e5383465b1726252baa0176bb71b8a6472b398fa943b1d83acd534f5'}
+  - {seq: 0, role: markers, filename: assets/KR3er040_000.markers.yaml, hash: 'sha256:f14924d967a563d7b3adf4783c2922d2be71b05cd1a30db85153a142b3c6411e'}
   - {seq: 1, role: markers, filename: assets/KR3er040_001.markers.yaml, hash: 'sha256:2e349698c72dd24ab99c22a100e97f0d68e160d75c7dbea47848c6946c6828c2'}
   - {seq: 2, role: markers, filename: assets/KR3er040_002.markers.yaml, hash: 'sha256:2e1844f43c72c4045bbfaa4877f485c9fe3690bf92afefbe17bcd8e64cd426d6'}
   - {seq: 3, role: markers, filename: assets/KR3er040_003.markers.yaml, hash: 'sha256:ee911b12016d75990b2241c3ecc0a7eb83cc92fd67397075ef8c2bfc3ded27b8'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er040_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 509
   label: 注序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er040_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 509
     - 868
   label: 補註明醫雜著序
@@ -883,7 +883,7 @@ table_of_contents:
   label: 附方
   type: section
   level: 2
-hash: sha256:c9b76e0202082b00c9192945d653ad3ebb79c12f95c3dc5712a69f2b5103d610
+hash: sha256:5f7fda5975cc052cb9e2b935bc1f2ea8c477215b306999a549176c4c154ad490
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

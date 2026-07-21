@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er040_000-jc.yaml, hash: 'sha256:578682deb010a38413a5d6374596954d494400a3ebb406626272ac7051b1551b'}
+  - {seq: 0, filename: KR3er040_000-jc.yaml, hash: 'sha256:954cd5c0cd7098e1f738d4e3dfa9e781872c06fe94ad9ce8c7abab70c18d7c98'}
   - {seq: 1, filename: KR3er040_001-jc.yaml, hash: 'sha256:fcc01d007bacb4da0baf3ff34be3d6c3db205bf6522115145909da967f2dce11'}
   - {seq: 2, filename: KR3er040_002-jc.yaml, hash: 'sha256:2f79aec0111147c6b51bead637ff35a75538ae4c72a75003590d86cf2728f2e8'}
   - {seq: 3, filename: KR3er040_003-jc.yaml, hash: 'sha256:ab6dc2b7d9d04cd84b392cb9ceff0fc0efc7c149237bfa47a38b7a536553b6b9'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3er040_005-jc.yaml, hash: 'sha256:c636b691ef7fe3d972f153b3067ca86bd9c67f146806bc291daf4d5a13f68d82'}
   - {seq: 6, filename: KR3er040_006-jc.yaml, hash: 'sha256:7abab46f14b8ff39d6162687d0ab63a7b582ba00d104a71fa6d61df70a39b4e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er040_000-jc.markers.yaml, hash: 'sha256:6d306a7eacde8ef3074ecd3a84c0de18e5a19fd88a53cf3e961f4f751c20d9cd'}
+  - {seq: 0, role: markers, filename: assets/KR3er040_000-jc.markers.yaml, hash: 'sha256:245eaa3e159865762560b544cddc92e7984252b942a430d48490892a6be32f04'}
   - {seq: 1, role: markers, filename: assets/KR3er040_001-jc.markers.yaml, hash: 'sha256:5123b69ce5ae6b5ad9bd2bb9d15c9a95fd3d43e7fbf743a36fd895c701af6864'}
   - {seq: 2, role: markers, filename: assets/KR3er040_002-jc.markers.yaml, hash: 'sha256:5623d000af2d7399db0bc01c01c5b60567702db6577c73f3461d3c59c6ec553e'}
   - {seq: 3, role: markers, filename: assets/KR3er040_003-jc.markers.yaml, hash: 'sha256:a043d03ee5f3d07a20f614e22a982cbd8eff3c2fa37f95b663d3069db803e131'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er040_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 509
   label: 注序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er040_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 509
     - 868
   label: 補註明醫雜著序
@@ -883,4 +883,4 @@ table_of_contents:
   label: 附方
   type: section
   level: 2
-hash: sha256:52069e8a46c1fdf19965b82d5feec6361fc9c64ca04e3413692034347aaec6ec
+hash: sha256:bf4d42a3b83ac0195d73094297e706393b6467dadd6803ce3040d17782b1ecd1
